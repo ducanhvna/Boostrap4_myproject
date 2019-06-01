@@ -1,0 +1,4 @@
+
+*.pyc
+db.sqlite3
+pools/migrations/0001_initial.py
